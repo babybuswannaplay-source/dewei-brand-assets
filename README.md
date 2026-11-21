@@ -16,6 +16,12 @@
 - 新增 logo 变体时，先补充用途说明和来源，再放入 `logos/`。
 - 本仓库只保存品牌源资产和说明，不放具体项目代码、CAD/SW 工程模板或压缩包。
 
+## 德为设计文化
+
+- [德为设计文化与统一设计系统](设计文化/德为设计文化与统一设计系统.md)：把 Logo、网页、名片、文档、软件界面和设备外观放进同一套设计判断中。
+- [网页、名片与文档模板仓库](https://github.com/babybuswannaplay-source/dewei-document-templates)
+- [设备、CAD 与 SOLIDWORKS 标准仓库](https://github.com/babybuswannaplay-source/dewei-mechanical-design)
+
 ## 来源
 
 - `dewei-automation-logo.png`：现有惠祥 ERP 品牌资源。
